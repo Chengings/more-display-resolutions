@@ -1,0 +1,25 @@
+{
+  "name": "more-display-resolutions",
+  "license": "MPL 2.0", 
+  "fullName": "More Display Resolutions",
+  "id": "more-display-resolutions@mhafai.com",
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "1.0",
+  "description": "An easy way to test website with different display resolutions",
+  "preferences": [
+        {
+            "type": "control",
+            "label": "Reset",
+            "name": "reset_presets",
+            "title": "Reset to original presets"
+        },
+        {
+            "type": "control",
+            "label": "Restore",
+            "name": "restore_presets",
+            "title": "Restore extension presets"
+        }
+        ]
+}
